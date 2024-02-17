@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/jihanchowdhury/Desktop/ph-2/university-management-core-service-starter/logs/winston/successes/.9d207588e358779b9074eeee9252c21ac8d4e9c6-audit.json",
+    "files": [
+        {
+            "date": 1708162081334,
+            "name": "/Users/jihanchowdhury/Desktop/ph-2/university-management-core-service-starter/logs/winston/successes/phu-2024-17-02-15-success.log",
+            "hash": "03f393a2828cff0815c809b1417eb8d24df97167a389a7e8090f42c41a7ec6e0"
+        },
+        {
+            "date": 1708176573562,
+            "name": "/Users/jihanchowdhury/Desktop/ph-2/university-management-core-service-starter/logs/winston/successes/phu-2024-17-02-19-success.log",
+            "hash": "6ef22de75997050316bac70cfa183b48001a6127ea4b1f9bcca4ec8bb6152e88"
+        },
+        {
+            "date": 1708184148654,
+            "name": "/Users/jihanchowdhury/Desktop/ph-2/university-management-core-service-starter/logs/winston/successes/phu-2024-17-02-21-success.log",
+            "hash": "bc66c80b9db1bd505d3b2cce480f717101d8daa4221d890c4f34e904b352e538"
+        },
+        {
+            "date": 1708187376851,
+            "name": "/Users/jihanchowdhury/Desktop/ph-2/university-management-core-service-starter/logs/winston/successes/phu-2024-17-02-22-success.log",
+            "hash": "2550520438ba7634d933e5fd6a8d8da9ac3361c49841ce0650b44b598908d05d"
+        }
+    ],
+    "hashType": "sha256"
+}

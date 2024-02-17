@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/jihanchowdhury/Desktop/ph-2/university-management-core-service-starter/logs/winston/errors/.d06e9d22e72a609221e3910dae86f200f4825ef8-audit.json",
+    "files": [
+        {
+            "date": 1708162081335,
+            "name": "/Users/jihanchowdhury/Desktop/ph-2/university-management-core-service-starter/logs/winston/errors/phu-2024-17-02-15-error.log",
+            "hash": "c24e29b7d334258c3e85de518b7100a93adf4f9876736cf69fa28804ad26a95b"
+        },
+        {
+            "date": 1708176573758,
+            "name": "/Users/jihanchowdhury/Desktop/ph-2/university-management-core-service-starter/logs/winston/errors/phu-2024-17-02-19-error.log",
+            "hash": "e9058258b739e069d6f2f63062f587fa97607cacb074e4aa5714289377ddb133"
+        },
+        {
+            "date": 1708184148945,
+            "name": "/Users/jihanchowdhury/Desktop/ph-2/university-management-core-service-starter/logs/winston/errors/phu-2024-17-02-21-error.log",
+            "hash": "df4d631b8ea6303a6d7c8368154b5d905896a126e394d11caf9b2eabcf8b4cf1"
+        },
+        {
+            "date": 1708187379971,
+            "name": "/Users/jihanchowdhury/Desktop/ph-2/university-management-core-service-starter/logs/winston/errors/phu-2024-17-02-22-error.log",
+            "hash": "4f3a9564dcb282476ce5142d2b9b1d7b6dc8612e2d50ec402c3fbc6e517d9c11"
+        }
+    ],
+    "hashType": "sha256"
+}
